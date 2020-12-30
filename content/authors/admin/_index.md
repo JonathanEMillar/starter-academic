@@ -14,13 +14,15 @@ organizations:
   url: https://baillielab.net/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ARDS, clinical phenotyping and large animal models of critical illness.
+bio: Jonathan Millar works in the Baillie Lab at the University of Edinburgh
 
 # Interests to show in About widget
 interests:
 - ARDS
+- MSCs
 - Clinical phenotyping
-- Large animal models of critical illness
+- Large animal models 
+- ECMO
 
 # Education to show in About widget
 education:
@@ -54,18 +56,18 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Jonathan Millar is a Clinical Lecturer in Intensive Care Medicine at the Baillie Lab, Roslin Institute, University of Edinburgh. His research interests include ARDS, clinical phenotyping and large animal models of critical illness. He has previously worked with Prof John Fraser, at the Critical Care Research Group, University of Queensland, and with Prof Danny McAuley, at the Wellcome-Wolfson Institute for Experimental Medicine, Queen's University Belfast.
+Jonathan Millar works within the Baillie Lab, Roslin Institute, University of Edinburgh. His research interests include cell therapies for ARDS, unsupervised machine learning approaches to clinical phenotyping in acute severe respiratory failure, and large animal models of critical illness, including models of ECMO. He has previously worked under Prof John Fraser, at the Critical Care Research Group, University of Queensland, and with Prof Danny McAuley, at the Wellcome-Wolfson Institute for Experimental Medicine, Queen's University Belfast.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+
