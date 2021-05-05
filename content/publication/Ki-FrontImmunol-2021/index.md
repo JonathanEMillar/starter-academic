@@ -30,7 +30,7 @@ publication_types: ["2"]
 publication: "*Frontiers in Immunology*"
 publication_short: "*Front Immunol*"
 
-#abstract: 
+#abstract: A plethora of leukocyte modulations have been reported in critically ill patients. Critical illnesses such as acute respiratory distress syndrome and cardiogenic shock, which potentially require extracorporeal membrane oxygenation (ECMO) support, are associated with changes in leukocyte numbers, phenotype, and functions. The changes observed in these illnesses could be compounded by exposure of blood to the non-endothelialized surfaces and non-physiological conditions of ECMO. This can result in further leukocyte activation, increased platelet-leukocyte interplay, pro-inflammatory and pro-coagulant state, alongside features of immunosuppression. However, the effects of ECMO on leukocytes, in particular their phenotypic and functional signatures, remain largely overlooked, including whether these changes have attributable mortality and morbidity. The aim of our narrative review is to highlight the importance of studying leukocyte signatures to better understand the development of complications associated with ECMO. Increased knowledge and appreciation of their probable role in ECMO-related adverse events may assist in guiding the design and establishment of targeted preventative actions.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
