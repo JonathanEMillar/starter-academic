@@ -19,8 +19,7 @@ bio: Jonathan Millar works in the Baillie Lab at the University of Edinburgh
 # Interests to show in About widget
 interests:
 - ARDS
-- MSCs
-- Clinical phenotyping
+- Genome editing
 - Large animal models 
 - ECMO
 
@@ -67,7 +66,7 @@ email: ""
 highlight_name: true
 ---
 
-Jonathan Millar works within the Baillie Lab, Roslin Institute, University of Edinburgh. His research interests include cell therapies for ARDS, unsupervised machine learning approaches to clinical phenotyping in acute severe respiratory failure, and large animal models of critical illness, including models of ECMO. He has previously worked under Prof John Fraser, at the Critical Care Research Group, University of Queensland, and with Prof Danny McAuley, at the Wellcome-Wolfson Institute for Experimental Medicine, Queen's University Belfast.
+Jonathan Millar works in the Baillie Lab, Roslin Institute, University of Edinburgh. His research interests include genome editing and the functional genomics of ARDS, unsupervised machine learning approaches to phenotyping , and large animal models of critical illness, including models of ECMO. He completed his doctoral work with Prof John Fraser (Critical Care Research Group, University of Queensland) and Prof Danny McAuley (Wellcome-Wolfson Institute for Experimental Medicine, Queen's University Belfast), studying the role of mesenchymal stem cells and ECMO in ARDS. Since, under the supervision of Dr Kenneth Baillie, he has contributed to the Genetics of Mortality in Critical Care (GenOMICC) study and is working to develop *in-vitro* and *in-vivo* genome editing platforms to study the functional genomics of acute severe respiratory failure.
 
 
 
