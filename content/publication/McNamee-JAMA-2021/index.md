@@ -33,8 +33,8 @@ doi: "https://doi.org/10.1001/jama.2021.13374"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*American Journal of Cardiology*"
-publication_short: "*Am J Cardiol*"
+publication: "*Journal of American Medical Association*"
+publication_short: "*JAMA*"
 
 #abstract: 
 

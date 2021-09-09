@@ -46,8 +46,8 @@ doi: "https://doi.org/10.1186/s13054-021-03518-4"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*American Journal of Cardiology*"
-publication_short: "*Am J Cardiol*"
+publication: "*Critical Care*"
+publication_short: "*Crit Carel*"
 
 #abstract: 
 
