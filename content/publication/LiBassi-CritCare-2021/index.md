@@ -47,7 +47,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Critical Care*"
-publication_short: "*Crit Carel*"
+publication_short: "*Crit Care*"
 
 #abstract: 
 
